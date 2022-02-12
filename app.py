@@ -1,7 +1,6 @@
 import os
 import logging
 
-import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from telegram.utils.helpers import mention_markdown
 
